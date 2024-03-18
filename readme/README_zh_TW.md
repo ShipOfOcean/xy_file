@@ -36,14 +36,17 @@ file_path = File.touch(touch_file_path)
 # 如果file_path不為空 說明創建空檔成功
 ```
 
+## 捐贈
+
+如果小夥伴們覺得這些工具還不錯的話，能否請咱喝一杯咖啡呢
+<br />
+![微信](WeChat.png)
+![支付寶](Alipay.png)
+
 
 ## 聯繫方式
 
 
-如果小夥伴們覺得這些工具還不錯的話，能否請咱喝一杯咖啡呢
-<br/>
-![微信](WeChat.png)
-![支付寶](Alipay.png)
 
 ```
 微信: yuyangitt
