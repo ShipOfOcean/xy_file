@@ -12,7 +12,7 @@
 ## 安裝
 
 ```
-    pip install xy_file
+pip install xy_file
 ```
 
 ## 使用

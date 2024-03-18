@@ -12,7 +12,7 @@ Easy File tools, especially for regular.
 ## 安装
 
 ```
-    pip install xy_file
+pip install xy_file
 ```
 
 ## How to use
