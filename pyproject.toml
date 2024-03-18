@@ -13,7 +13,7 @@ description = "文件相关处理模块"
 
 dynamic = ["version", "readme"]
 
-classifiers = ["Programming Language :: Python :: 3.11.3"]
+classifiers = ["Programming Language :: Python :: 3"]
 
 dependencies = ["rich"]
 
