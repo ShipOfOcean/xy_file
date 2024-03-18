@@ -4,9 +4,6 @@
 - zh_TW [繁体中文](readme/README_zh_TW.md)
 - en [English](readme/README_en.md)
 
-If you think these tools are pretty good, Can you please have a cup of coffee?
-![WeChat](readme/WeChat.png)
-![Alipay](readme/Alipay.png)
 
 ## Description
 Easy File tools, especially for regular.
@@ -39,6 +36,12 @@ file_path = File.touch(touch_file_path)
 # if file_path is not empty, it means you created the file successful.
 ```
 
+
+
+If you think these tools are pretty good, Can you please have a cup of coffee?
+<br/>
+![WeChat](readme/WeChat.png)
+![Alipay](readme/Alipay.png)
 
 ## Contact
 

@@ -4,9 +4,6 @@
 - zh_TW [繁体中文](readme/README_zh_TW.md)
 - en [English](readme/README_en.md)
 
-如果小夥伴們覺得這些工具還不錯的話，能否請咱喝一杯咖啡呢
-![微信](readme/WeChat.png)
-![支付寶](readme/Alipay.png)
 
 ## 說明
 簡單檔操作工具，特殊功能為不同路徑匹配規則的添加。
@@ -42,6 +39,11 @@ file_path = File.touch(touch_file_path)
 
 ## 聯繫方式
 
+
+如果小夥伴們覺得這些工具還不錯的話，能否請咱喝一杯咖啡呢
+<br/>
+![微信](readme/WeChat.png)
+![支付寶](readme/Alipay.png)
 
 ```
 微信: yuyangitt
