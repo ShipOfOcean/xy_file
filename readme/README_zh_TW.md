@@ -11,14 +11,14 @@
 
 ## 安裝
 
-```
+```bash
 pip install xy_file
 ```
 
 ## 使用
 
 ###### 1. 命令行
-```
+```bash
 # 刪除目前的目錄下所有 py 文稿檔
 xy_file -w clean -g "*.py"
 
@@ -26,7 +26,7 @@ xy_file -w clean -g "*.py"
 
 ###### 2. python腳本
 
-```
+```python
 from xy_file.File import File
 from pathlib import Path
 

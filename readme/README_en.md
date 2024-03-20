@@ -11,14 +11,14 @@ Easy File tools, especially for regular.
 
 ## 安装
 
-```
+```bash
 pip install xy_file
 ```
 
 ## How to use
 
 ###### 1. Terminal
-```
+```bash
 # Delete all py files under current work folder.
 xy_file -w clean -g "*.py"
 
@@ -26,7 +26,7 @@ xy_file -w clean -g "*.py"
 
 ###### 2. python script
 
-```
+```python
 from xy_file.File import File
 from pathlib import Path
 

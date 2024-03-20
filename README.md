@@ -10,7 +10,7 @@
 
 ## 安装
 
-```
+```bash
 pip install xy_file
 ```
 
@@ -18,14 +18,14 @@ pip install xy_file
 
 ###### 1. 命令行
 
-```
+```bash
 # 删除当前目录下所有 py 脚本文件
 xy_file -w clean -g "*.py"
 ```
 
 ###### 2. python脚本
 
-```
+```python
 from xy_file.File import File
 from pathlib import Path
 touch_file_path = Path.cwd().joinpath("test.txt")
