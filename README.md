@@ -7,6 +7,7 @@
 ## 说明
 简单文件操作工具，特殊功能为不同路径匹配规则的添加。
 
+<a href="https://github.com/ShipOfOcean/xy_file.git" target="_blank">Github地址</a>
 
 ## 安装
 

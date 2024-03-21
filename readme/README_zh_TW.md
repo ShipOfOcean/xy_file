@@ -8,6 +8,7 @@
 ## 說明
 簡單檔操作工具，特殊功能為不同路徑匹配規則的添加。
 
+<a href="https://github.com/ShipOfOcean/xy_file.git" target="_blank">Github位址</a>
 
 ## 安裝
 
